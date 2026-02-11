@@ -31,3 +31,55 @@ The goal is to improve business decision-making through data-driven customer pro
 
 ## Project Structure
 
+
+---
+
+## Clustering Algorithms Used
+
+- K-Means
+- Hierarchical Clustering
+
+Optimal cluster number determined using Elbow Method.
+
+---
+
+## Prediction Model
+
+- Random Forest Classifier
+- Class weight balancing for imbalanced data
+- Hyperparameter tuning using GridSearchCV
+
+---
+
+## Evaluation Metrics
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC
+
+Segment-based modeling improves targeted retention strategies.
+
+---
+
+## Key Insights
+
+- Contract type and tenure are major churn drivers
+- Month-to-month customers show higher churn
+- Segment-specific strategies increase marketing efficiency
+
+---
+
+## Business Impact
+
+This project demonstrates how segmentation combined with predictive modeling can:
+
+- Reduce churn
+- Improve retention ROI
+- Enable targeted marketing strategies
+- Increase customer lifetime value
+
+---
+
+Author: Aditya Dhananjay Pagar
